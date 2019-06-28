@@ -1,3 +1,2 @@
 # helloworld
-frist git
-genggai1
+add a02
